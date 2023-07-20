@@ -1,5 +1,5 @@
 # Calculator
 
-This is a calculator created with HTML, CSS and JavaScript.
+Fully functional calculator created with HTML, CSS, and JS.
 
-## _[Live Demo](https://guneyuzel.github.io/calculator/)_
+[Live Demo](https://guneyuzel.github.io/calculator/) :point_left:
